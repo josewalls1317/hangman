@@ -1,1 +1,1 @@
-This is a bare-bones version of a CLI hangman; I'm hoping to improve upon this project in the future; potentially making it a web or mobile app, or at least adding some ASCII hangman visual
+A now updated CLI version of hangman; has improved game logic, ASCII art, and is functional. Next steps are: (1) adding a larger wordbank, (2) adding an ASCII hangman visual introductory message, (3) any other minor UI/UX improvements.
